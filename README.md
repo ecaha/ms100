@@ -18,6 +18,6 @@ Some remarks
 - Mod02 [Planning and Implementing Identity Synchronization](T03/AADConnect.md)
 - Mod03 [Planning and Implemnting Federated Identities](T03/ADFS.md)
 - Mod04 [Implementing Application and External Access](T03/Guests.md)
-- [Lab Guide](T03/StudentLabManual.pdf)
+- [Lab Guide](T03/MS100-StudentLabManual03.pdf)
 
 ## Two day Warszaw 25.9.
