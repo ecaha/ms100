@@ -14,9 +14,10 @@ Some remarks
 - Mod03 [Managing Your Microsoft 365 Tenanat]
 
 ### Day03 - MS-100.3 Microsoft 365 Identity Management 
-- Mod01 [Managing User Security Groups and Licenses]
-- Mod02 [Planning and Implementing Identity Synchronization]
-- Mod03 [Planning and Implemnting Federated Identities]
-- Mod04 [Implementing Application and External Access]
+- Mod01 [Managing User Security Groups and Licenses](T03/ManagingUsers.md)
+- Mod02 [Planning and Implementing Identity Synchronization](T03/AADConnect.md)
+- Mod03 [Planning and Implemnting Federated Identities](T03/ADFS.md)
+- Mod04 [Implementing Application and External Access](T03/Guests.md)
+- [Lab Guide](T03/StudentLabManual.pdf)
 
 ## Two day Warszaw 25.9.
